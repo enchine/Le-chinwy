@@ -1,0 +1,25 @@
+ma-boutique/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── produit/
+│   │   └── [slug]/
+│   │       └── page.tsx
+│   └── api/
+│       └── produits/
+│           └── route.ts
+├── components/
+│   ├── Header.tsx
+│   ├── ProductCard.tsx
+│   ├── ProductDetails.tsx
+│   └── Cart.tsx
+├── data/
+│   └── produits.json
+├── lib/
+│   └── types.ts
+├── hooks/
+│   └── useCart.ts
+├── next.config.js
+├── package.json
+└── tsconfig.json
