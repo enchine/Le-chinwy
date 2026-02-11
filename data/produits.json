@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "nom": "Robe d'été Élégante",
+    "slug": "robe-ete-elegante",
+    "prix": 89.99,
+    "image": "https://via.placeholder.com/400x500.png?text=Robe+d'été",
+    "description": "Une robe légère et fluide, parfaite pour les journées ensoleillées. Fabriquée en coton bio.",
+    "categorie": "Robes",
+    "stock": 10
+  },
+  {
+    "id": "2",
+    "nom": "Jean Coupe Droite",
+    "slug": "jean-coupe-droite",
+    "prix": 120.00,
+    "image": "https://via.placeholder.com/400x500.png?text=Jean+Droit",
+    "description": "Un jean classique avec une coupe droite qui s'adapte à toutes les morphologies.",
+    "categorie": "Pantalons",
+    "stock": 15
+  },
+  {
+    "id": "3",
+    "nom": "T-shirt en Lin Basique",
+    "slug": "t-shirt-lin-basique",
+    "prix": 45.50,
+    "image": "https://via.placeholder.com/400x500.png?text=T-shirt+Lin",
+    "description": "Un t-shirt simple et confortable en lin, idéal pour un style décontracté.",
+    "categorie": "T-shirts",
+    "stock": 25
+  }
+]
